@@ -19,6 +19,6 @@
     "vite": "^2.5.2"
   },
   "dependencies": {
-    "nanoid": "^3.1.25"
+    "nanoid": "^3.1.31"
   }
 }
